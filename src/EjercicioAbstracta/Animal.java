@@ -7,6 +7,7 @@ public abstract class Animal {// ES UNA SUPERCLASE
     protected String alimento;
     protected Integer edad;
     protected String raza;
+    private String atributo1;
 
     //Declaro los constructores
     public Animal(String nombre, String alimento, Integer edad, String raza) {
